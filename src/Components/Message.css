@@ -1,0 +1,14 @@
+.left, .right{
+    position: absolute;
+    padding: 2px 10px;
+    border-radius: 4px;
+    background-color: #7d8689;
+    width: auto;
+    margin-top: 10px;
+}
+.left{
+    left: 10px;
+}
+.right{
+    right: 10px;
+}

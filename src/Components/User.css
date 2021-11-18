@@ -1,0 +1,29 @@
+.Feed-user{
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.Feed-user-content{
+    border-radius: 5px;
+    padding-left: 5px;
+    background-color: white;
+}
+.Feed-user-image
+{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    background-image: url("/src/Img/Profile.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90px 90px;
+    vertical-align: bottom;
+}
+.Feed-user-name{
+    display: inline-block;
+    margin-left: 10px;
+}
+.user-main-name{
+    font-size: 2.2vw;
+    margin-bottom: 3px;
+}

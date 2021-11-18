@@ -1,0 +1,15 @@
+.sidebar{
+    width: 18%;
+    height: calc(100vh - 70px);
+    background-color: #ffffff;
+    border-radius: 10px;
+    /* margin-right: 80px; */
+}
+.main{
+    width: 80%;
+    border-radius: 10px;
+}
+.Filter-text{
+    margin: 0px 7px;
+    font-weight: 600;
+}

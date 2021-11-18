@@ -1,0 +1,41 @@
+.form_container form{
+    text-align: left;
+}
+.form_container label{
+    font-size: 1rem;
+    font-weight: normal;
+    color: black;
+}
+.submit-btn, .submit-btn:hover{
+    width: 26%;
+    padding: 2px 14px;
+    text-align: center;
+    border: 4px solid black;
+    border-radius: 10px;
+    color: black;
+    font-size: 2vw;
+    font-weight: 700;
+    text-transform: uppercase
+}
+.submit-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.form-main{
+    width: 90%;
+    margin: 0px 10px;
+}
+.heading
+{
+    margin: 20px 0px;
+}
+.header h1{
+    margin: 20px 0px;
+}
+.background{
+    background-color: #DFE9Ec;
+}

@@ -1,0 +1,16 @@
+.Home{
+    /* height: 100vh; */
+    background-color: #e9e9e9;
+}
+.searchbar{
+    width: 100vw;
+    background-color: #ffffff;
+    height: 60px;
+    box-shadow: -4px 0px 5px 2px grey;
+}
+.content{
+    padding: 10px 5px 0px 5px;
+}
+.Home-Feed{
+    background-color: #e9e9e9;
+}

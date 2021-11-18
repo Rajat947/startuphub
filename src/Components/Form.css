@@ -1,0 +1,39 @@
+form{
+    text-align: center;
+}
+form label{
+    font-size: 1.5vw;
+    margin-right: 10px;
+    font-weight: 800;
+    color: #595959;
+}
+form input{
+    padding: 5px 0px;
+    border-radius: 5px;
+}
+form div{
+    margin: 15px auto;
+}
+.submit-button{
+    background-color: #E4E4E4;
+    width: 20%;
+    padding: 7px 20px;
+    font-size: 1.5vw;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 4px solid black;
+    cursor: pointer;
+}
+.effect:hover{
+    background-color: black;
+    color: white;
+}
+.error{
+    margin-bottom: 20px;
+    color: red;
+    visibility: hidden;
+}
+.disabled{
+    color: #b7b7c6;
+    cursor: not-allowed !important;
+}

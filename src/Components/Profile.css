@@ -1,0 +1,38 @@
+.Profile{
+    width: 90%;
+    height: calc(100vh - 70px);
+    margin: 10px auto 0px auto;
+    border-radius: 20px 20px 0px 0px;
+    padding: 0px;
+    background-color: #DFE9Ec;
+}
+.Profile .row{
+    padding: 0px;
+    margin: 0px;
+}
+.backgroundImage{
+    height: 220px;
+    background-color: black;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url("/src/Img/background.jpeg");
+}
+.personal{
+    height: 130px;
+    position: relative;
+}
+.about{
+    height: 216px;
+}
+.user-image{
+    background-image: url("/src/Img/Profile.png");
+    background-position: center;
+    background-size: 145px 145px;
+    background-repeat: no-repeat;
+}
+.Profile-user-name{
+    margin-top: 10px;
+}
+.about p{
+    padding: 0px;
+    margin: 0px;
+}
