@@ -51,9 +51,7 @@ class Form extends Component{
     submit = (event)=>{
         event.preventDefault();
         if(!this.submitRef.current.classList.contains("disabled")){
-            //Alert has to be replaced with call from server for validation
-            // alert("email:" + this.state.email+" \npassword: "+this.state.password);
-            //IN case of password and mail is incorrect
+            //Dummy id and password
             if(this.state.email !== "admin@startuphub.co.in" && this.state.password !== "12345678")
             {
                 this.errorRef.current.style.visibility = "visible";
