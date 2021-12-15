@@ -18,6 +18,10 @@ This application registers new startups and investors. Interested person can loo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Run this to install required node modules.
+
 ### `npm start`
 
 Runs the app in the development mode.\
