@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+<p align="center">
+    <img src="./src/Img/Startuphub1.png" width="25%">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This application registers new startups and investors. Interested person can look for his choice with various filters offered to him/her. This will not only help the interested person but deep inside the new startups will also gain a boost with this.</br>
+*This is front-end only with a mock backend.*
+
+## Preview
+<p align="center">
+    <img src="./src/Img/Preview/Landing.png" width="75%">
+    <img src="./src/Img/Preview/signin.png" width="75%">
+    <img src="./src/Img/Preview/login.png" width="75%">
+    <img src="./src/Img/Preview/Home.png" width="75%">
+</p>
 
 ## Available Scripts
 
